@@ -1,0 +1,20 @@
+{
+  "name": "Default",
+  "description": "All trainer modules off — save editor values unchanged until applied.",
+  "trainer": {
+    "activateTrainer": false,
+    "unlimitedHp": false,
+    "unlimitedMp": false,
+    "oneHitKill": false,
+    "unlimitedItemUses": false,
+    "instantWin": false,
+    "unlimitedAttacks": false,
+    "unlimitedMoves": false
+  },
+  "saveEditor": {
+    "coinsAdventure": null,
+    "foodAdventure": null,
+    "coinsHome": null,
+    "foodHome": null
+  }
+}
