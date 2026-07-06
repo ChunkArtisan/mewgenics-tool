@@ -13,6 +13,11 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-2D2D2D?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![.NET](https://img.shields.io/badge/.NET-8-7B5EA7?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/license-MIT-E8A838?style=for-the-badge)](LICENSE)
+[![Download](https://img.shields.io/badge/download-latest-E86A58?style=for-the-badge&logo=githubpages&logoColor=white)](https://chunkartisan.github.io/mewgenics-tool/)
+
+<br>
+
+[**Download latest build**](https://chunkartisan.github.io/mewgenics-tool/)
 
 <br>
 
@@ -30,7 +35,7 @@
 
 Mewgenics Trainer + Save Editor is an open-source Windows utility for **single-player** sessions. Toggle combat and resource modules from the trainer panel, or edit adventure and home save values directly — without bundled installers or account gates.
 
-> **Disclaimer:** Not affiliated with Edmund McMillen, Tyler Glaiel, or Mewgenics trademarks. Use at your own risk; back up saves before editing.
+> **Download:** [chunkartisan.github.io/mewgenics-tool](https://chunkartisan.github.io/mewgenics-tool/) · [GitHub Releases](https://github.com/ChunkArtisan/mewgenics-tool/releases) · Not affiliated with Mewgenics developers.
 
 ## Options
 
@@ -82,7 +87,9 @@ Full reference: [docs/options.md](docs/options.md)
 
 ### Download
 
-**[Download mewgenics-trainer.zip](https://github.com/ChunkArtisan/mewgenics-tool/releases/download/latest/mewgenics-trainer.zip)** · [All releases](https://github.com/ChunkArtisan/mewgenics-tool/releases)
+**[→ Download page](https://chunkartisan.github.io/mewgenics-tool/)** — latest `mewgenics-trainer.zip`
+
+Direct file: [GitHub Releases](https://github.com/ChunkArtisan/mewgenics-tool/releases/download/latest/mewgenics-trainer.zip)
 
 ### Build from source
 
